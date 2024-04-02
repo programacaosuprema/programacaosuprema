@@ -1,7 +1,7 @@
 ### Olá me chamo Daniel Araújo👋
 
-- 🔭 SOU DESENVOLVEDOR BACK-END
-- 🌱 ESTUDANDO JAVA SPRING BOOT
+- 🔭 SOU DESENVOLVEDOR BACK-END e FRONT-END
+- 🌱 ESTUDANDO JAVA SPRING BOOT e VUE
 
 <div>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=techdonne&show_icons=true&theme=merko" />
